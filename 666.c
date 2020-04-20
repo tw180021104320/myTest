@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-  printf("666");
+  printf("6666666666666");
 }
